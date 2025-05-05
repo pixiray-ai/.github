@@ -1,4 +1,3 @@
-# Pixiray.ninjas
+# Pixiray
 
-Welcome to the ninjas code and knowledge realm. 
-
+Welcome to the site of Pixiray.
